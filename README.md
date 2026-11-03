@@ -1,4 +1,4 @@
-# gr33n37-ip-changer
+chmod +X# gr33n37-ip-changer
 
 Bash script that uses Tor to change your IP at specified intervals.
 
